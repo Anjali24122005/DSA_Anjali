@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
