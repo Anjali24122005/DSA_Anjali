@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0136-single-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union Find
 |  |
