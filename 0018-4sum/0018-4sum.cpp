@@ -11,10 +11,11 @@ public:
                 int k=j+1;
                 int l=n-1;
                 while(k<l){
-                    long long sum=nums[i];
-                    sum+=nums[j];
-                    sum+=nums[k];
-                    sum+=nums[l];
+                    // long long sum=nums[i];
+                    // sum+=nums[j];
+                    // sum+=nums[k];
+                    // sum+=nums[l];
+                    long long sum = 1LL * nums[i] + nums[j] + nums[k] + nums[l];
 
                     if(sum==target){
                         vector<int>temp={nums[i], nums[j], nums[k], nums[l]};
