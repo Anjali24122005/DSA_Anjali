@@ -7,6 +7,7 @@ public:
         for(int i=0;i<n;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
             for(int j=i+1;j<n;j++){
+                 if(nums[i]+nums[j]>0 && nums[i]>0 && target<0) break;
                 if(j>i+1 && nums[j]== nums[j-1]) continue;
                 int k=j+1;
                 int l=n-1;
