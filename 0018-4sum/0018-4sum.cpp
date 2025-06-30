@@ -18,9 +18,9 @@ public:
                     long long sum = 1LL * nums[i] + nums[j] + nums[k] + nums[l];
 
                     if(sum==target){
-                        // vector<int>temp={nums[i], nums[j], nums[k], nums[l]};
-                        // ans.push_back(temp);
-                        ans.push_back({nums[i], nums[j], nums[k], nums[l]});
+                        vector<int>temp={nums[i], nums[j], nums[k], nums[l]};
+                        ans.push_back(temp);
+                        // ans.push_back({nums[i], nums[j], nums[k], nums[l]});
 
                         k++;
                         l--;
