@@ -11,6 +11,6 @@ public:
         }
 
         if(nums[n-1]!=nums[n-2]) return nums[n-1];
-        return -1;
+        return -1;    
     }
 };
