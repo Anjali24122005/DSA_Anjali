@@ -8,6 +8,9 @@ public:
 
             // Update the maxsum found so far
             maxsum=max(maxsum,sum);
+            if(sum<0){
+                sum=0;
+            }
         }
         return maxsum;
     }
