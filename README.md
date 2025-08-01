@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
@@ -171,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
