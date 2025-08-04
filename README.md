@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0229-majority-element-ii) |
+| [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
