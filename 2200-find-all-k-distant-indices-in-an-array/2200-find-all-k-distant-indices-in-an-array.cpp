@@ -12,17 +12,34 @@ public:
         // }
         // return result;
 
-        set<int> ans;
+        // set<int> ans;
+        // int n=nums.size();
+        // for(int j=0;j<n;j++){
+        //     if(nums[j]==key){
+        //         int left=max(0,j-k);
+        //         int right=min(n-1,j+k);
+        //         for(int i=left;i<=right;i++){
+        //             ans.insert(i);
+        //         }
+        //     }
+        // }
+        // return vector<int>(ans.begin(), ans.end());
+
         int n=nums.size();
+        vector<bool> mark(n,false);
         for(int j=0;j<n;j++){
             if(nums[j]==key){
                 int left=max(0,j-k);
                 int right=min(n-1,j+k);
                 for(int i=left;i<=right;i++){
-                    ans.insert(i);
+                    mark[i]=true;
                 }
             }
         }
-        return vector<int>(ans.begin(), ans.end());
+        vector<int> result;
+        for(int i=0;i<n;i++){
+            if(mark[i]) result.push_back(i);
+        }
+        return result;
     }
 };
