@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -223,6 +225,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
