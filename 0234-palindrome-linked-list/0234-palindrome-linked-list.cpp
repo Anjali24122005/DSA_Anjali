@@ -31,7 +31,9 @@ public:
         ListNode* right=prev;
 
         while(right){
-            if(left->val!=right->val) return false;
+            if(left->val!=right->val) {
+                return false;
+                }
             left=left->next;
             right=right->next;
         }
