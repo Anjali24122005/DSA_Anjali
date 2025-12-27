@@ -16,7 +16,8 @@ public:
         int sum=0;
         int mid=low+(high-low)/2;
         for(int i=0;i<nums.size();i++){
-            sum+=ceil(double(nums[i])/mid);
+            //sum+=ceil(double(nums[i])/mid);
+            sum+=(nums[i]+mid-1)/mid;
         }
         if(sum<=threshold){
             high=mid-1;
