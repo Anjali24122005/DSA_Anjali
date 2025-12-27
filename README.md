@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1539-kth-missing-positive-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0907-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1646-kth-missing-positive-number) |
