@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
+| [3110-score-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3110-score-of-a-string) |
 ## Recursion
 |  |
 | ------- |
