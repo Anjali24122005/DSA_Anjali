@@ -10,6 +10,8 @@ public:
         // }
         // return -1;
 
+
+        //Boyer-Moore Voting Algorithm
         int element;
         int count=0;
         int n=nums.size();
