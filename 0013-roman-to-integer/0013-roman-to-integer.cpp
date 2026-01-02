@@ -12,13 +12,13 @@ public:
             {'M',1000}
         };
         int total=0;
-        for(int i=0;i<s.size();i++){
+        for(int i=0;i<s.size()-1;i++){
             if(roman[s[i]]<roman[s[i+1]]){
                 res-=roman[s[i]];
             }else{
                 res+=roman[s[i]];
             }
         }
-        return res;
+        return res+roman[s.back()];
     }
 };
