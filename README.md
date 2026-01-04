@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
+| [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
