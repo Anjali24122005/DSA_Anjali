@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
+| [0709-to-lower-case](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1108-defanging-an-ip-address) |
