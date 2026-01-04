@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1539-kth-missing-positive-number) |
 | [1646-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1646-kth-missing-positive-number) |
+| [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
