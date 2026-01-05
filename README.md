@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
