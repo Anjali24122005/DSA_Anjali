@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3794-reverse-string-prefix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
