@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Union Find
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1108-defanging-an-ip-address) |
