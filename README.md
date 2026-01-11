@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
