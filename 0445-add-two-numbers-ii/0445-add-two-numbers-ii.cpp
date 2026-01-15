@@ -51,6 +51,12 @@ public:
             curr=curr->next;
         }
         ListNode* res=reverse(dummy->next);
+        while(res && res->val==0){
+            res=res->next;
+        }
+        if(res==NULL){
+            return new ListNode(0);
+        }
         return res;
     }
 };
