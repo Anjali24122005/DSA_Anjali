@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Indexed Tree
 |  |
