@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Indexed Tree
 |  |
 | ------- |
