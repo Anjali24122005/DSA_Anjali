@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0206-reverse-linked-list) |
