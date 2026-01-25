@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
