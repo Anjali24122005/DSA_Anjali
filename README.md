@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Indexed Tree
 |  |
 | ------- |
