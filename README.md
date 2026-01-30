@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1528-shuffle-string) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
+| [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
