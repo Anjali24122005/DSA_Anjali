@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0367-valid-perfect-square) |
+| [0382-linked-list-random-node](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0079-word-search) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
