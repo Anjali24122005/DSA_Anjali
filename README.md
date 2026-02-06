@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0907-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
