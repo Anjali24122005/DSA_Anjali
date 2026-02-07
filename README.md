@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
@@ -496,4 +498,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
