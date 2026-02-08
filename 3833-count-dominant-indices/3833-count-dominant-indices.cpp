@@ -19,11 +19,12 @@ public:
 
         int sum=0, cnt=0;
         for(int i=n-1;i>=0;i--){
+            if(i!=n-1){
+             double avg=(double)sum/cnt;
+             if(nums[i]>avg) dominant++;
+            }
             sum+=nums[i];
             cnt++;
-            double avg=(double)sum/cnt;
-
-            if(nums[i]>avg) dominant++;
         }
         return dominant;
     }
