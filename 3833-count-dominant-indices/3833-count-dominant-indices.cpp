@@ -17,6 +17,7 @@ public:
         // }
         // return dominant;
 
+        if(nums.size()==1) return 0;
         int sum=0, cnt=0;
         for(int i=n-1;i>=0;i--){
             if(i!=n-1){
