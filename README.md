@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0169-majority-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0367-valid-perfect-square) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
