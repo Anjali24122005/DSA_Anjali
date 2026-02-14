@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3110-score-of-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3174-clear-digits](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Trie
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0079-word-search) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Reservoir Sampling
 |  |
 | ------- |
