@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1539-kth-missing-positive-number) |
+| [1598-crawler-log-folder](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1598-crawler-log-folder) |
 | [1646-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1646-kth-missing-positive-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
