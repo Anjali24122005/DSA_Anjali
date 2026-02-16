@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1528-shuffle-string) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
