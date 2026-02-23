@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
@@ -525,11 +526,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
