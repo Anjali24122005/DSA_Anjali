@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3110-score-of-a-string) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
