@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
