@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0018-4sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
