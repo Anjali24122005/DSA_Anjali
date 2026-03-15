@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1470-shuffle-the-array) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -577,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0933-number-of-recent-calls) |
 | [3829-design-ride-sharing-system](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3829-design-ride-sharing-system) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
