@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
