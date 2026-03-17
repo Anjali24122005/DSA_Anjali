@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2105-watering-plants-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2105-watering-plants-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2105-watering-plants-ii) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
