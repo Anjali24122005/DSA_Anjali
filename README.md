@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0876-middle-of-the-linked-list) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0709-to-lower-case) |
