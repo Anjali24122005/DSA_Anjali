@@ -4,21 +4,16 @@ public:
         int left=0, right=s.size();
         int n=s.size();
         vector<int>perm;
-        vector<int>arr(n+1);
-        for(int i=0;i<=n;i++){
-            arr[i]=i;
-        }
-
         for(char num:s){
             if(num=='I'){
-                perm.push_back(arr[left]);
+                perm.push_back(left);
                 left++;
             }else{
-                perm.push_back(arr[right]);
+                perm.push_back(right);
                 right--;
             }
         }
-        perm.push_back(arr[left]);
+        perm.push_back(left);
         return perm;
 
     }
