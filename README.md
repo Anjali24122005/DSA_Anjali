@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0941-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
