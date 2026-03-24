@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2574-left-and-right-sum-differences) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
