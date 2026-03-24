@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0485-max-consecutive-ones) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
