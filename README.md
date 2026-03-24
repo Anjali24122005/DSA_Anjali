@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1646-kth-missing-positive-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1813-sentence-similarity-iii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2105-watering-plants-ii) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1910-remove-all-occurrences-of-a-substring) |
