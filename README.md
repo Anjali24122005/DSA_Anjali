@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
