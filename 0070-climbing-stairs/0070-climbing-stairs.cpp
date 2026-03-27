@@ -17,17 +17,26 @@ public:
         // int right= climbStairs(n-2);
         // return left+right;
 
-        vector<int>dp(n+1);
+        // vector<int>dp(n+1);
         if(n<=2) return n;
 
-        dp[1]=1;
-        dp[2]=2;
+        // dp[1]=1;
+        // dp[2]=2;
 
-        for(int i=3;i<=n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
-        }
-        return dp[n];
+        // for(int i=3;i<=n;i++){
+        //     dp[i]=dp[i-1]+dp[i-2];
+        // }
+        // return dp[n];
         
+        int prev2=1;
+        int prev1=2;
+        int curr=1;
+        for(int i=3;i<=n;i++){
+            curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+        }
+        return curr;
 
     }
 };
