@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
