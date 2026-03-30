@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3174-clear-digits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
