@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2942-find-words-containing-character](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2942-find-words-containing-character) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3453-separate-squares-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3829-design-ride-sharing-system](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search
 |  |
