@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0493-reverse-pairs) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0746-min-cost-climbing-stairs) |
