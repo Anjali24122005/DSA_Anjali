@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1002-find-common-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1019-next-greater-node-in-linked-list) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1266-minimum-time-visiting-all-points) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1002-find-common-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1108-defanging-an-ip-address) |
