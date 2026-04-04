@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0238-product-of-array-except-self) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
