@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0056-merge-intervals) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0141-linked-list-cycle) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0147-insertion-sort-list) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0071-simplify-path) |
