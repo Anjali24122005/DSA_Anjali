@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
