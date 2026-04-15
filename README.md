@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1470-shuffle-the-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0948-sort-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0493-reverse-pairs) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Enumeration
 |  |
@@ -739,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
