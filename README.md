@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0682-baseball-game) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0792-binary-search) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0540-single-element-in-a-sorted-array) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0907-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0209-minimum-size-subarray-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -759,4 +763,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0181-employees-earning-more-than-their-managers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
