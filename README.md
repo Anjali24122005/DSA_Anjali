@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3453-separate-squares-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3668-restore-finishing-order) |
 | [3829-design-ride-sharing-system](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3829-design-ride-sharing-system) |
 ## Binary Search
 |  |
