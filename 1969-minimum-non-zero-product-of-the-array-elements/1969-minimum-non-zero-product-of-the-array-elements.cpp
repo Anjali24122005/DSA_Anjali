@@ -18,7 +18,7 @@ public:
     int minNonZeroProduct(int p) {
         long long maxnum=(1LL<<p)-1;
         long long secmax=maxnum-1;
-        long long exponent=(1LL<<(p-1))-1;
+        long long exponent=secmax / 2;
 
         return (power(secmax, exponent) * (maxnum % MOD)) % MOD;
     }
