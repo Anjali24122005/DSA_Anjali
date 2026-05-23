@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0942-di-string-match) |
 | [1754-largest-merge-of-two-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1754-largest-merge-of-two-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1903-largest-odd-number-in-string) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Trie
