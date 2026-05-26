@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0496-next-greater-element-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0922-sort-array-by-parity-ii) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Anjali24122005/DSA_Anjali/tree/master/0451-sort-characters-by-frequency) |
