@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali24122005/DSA_Anjali/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
