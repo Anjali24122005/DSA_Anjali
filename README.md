@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anjali24122005/DSA_Anjali/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Anjali24122005/DSA_Anjali/tree/master/2079-watering-plants) |
